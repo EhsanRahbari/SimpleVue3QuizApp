@@ -1,4 +1,4 @@
-#Quiz App Simple Vue 3
+#Quiz_App_Sipmle_Vue3
 
 ## Project setup
 
