@@ -1,4 +1,4 @@
-#Quiz_App_Sipmle_Vue3
+# Simple Quiz App Made With Vue for Educational Purposes
 
 ## Project setup
 
